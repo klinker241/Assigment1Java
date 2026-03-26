@@ -4,12 +4,6 @@
 Name: Muhammed Utemisov
 Group: SE-2514
 
-# Assignment 1 - Recursion
-
-## Student Information
-Name: YOUR NAME  
-Group: YOUR GROUP  
-
 ---
 
 ## Task 1 - Print Digits
