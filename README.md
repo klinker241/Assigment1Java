@@ -9,7 +9,7 @@ Group: SE-2514
 ## Task 1 - Print Digits
 This function prints each digit of a number using recursion.
 
-Example (n = 548):
+Example (n = 5481):
 digits(5481)
 → digits(548)
 → digits(54)
